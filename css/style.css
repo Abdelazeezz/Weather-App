@@ -1,0 +1,162 @@
+.bacdround{
+    
+    height: 70vh;
+    background-image: url(../images/dpqZJV5.jpg);
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+body p{
+    color: #bfc1c8;
+}
+
+
+.lay{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.394);
+    
+
+}
+.countryName{
+    color: rgba(223, 191, 152, 0.718);
+}
+  
+/* #searchinput,#subinput{
+border-radius: 30px;
+padding: 20px;
+border: none;
+color: white;
+position: relative;
+
+} */
+/* .bacdround .btn{
+    position: absolute;
+    top: 7%;
+    left: 80%;
+    width: 90px;
+    border-radius: 20px;
+} */
+
+
+.nav-link{
+    color: white;
+    padding: 5px 25px;
+    border: 2px solid transparent ;
+    transition: all 0.3s;
+    border-radius: 20px;
+}
+
+.nav-link:hover{
+    color: #009ad8;
+   border-color: #009ad8;
+
+   
+
+}
+/* .input-group>:not(:first-child):not(.dropdown-menu):not(.valid-tooltip):not(.valid-feedback):not(.invalid-tooltip):not(.invalid-feedback){
+    border-radius: 20px;
+} */
+
+.input-group .btn {
+    position: absolute;
+    z-index: 33;
+    width: 88px;
+    right: 5px;
+    height: 40px;
+    border-radius: 20px !important;
+}
+
+.input-group input{
+    height: 50px;
+    border-radius: 40px !important ;
+    border: none;
+    position: relative;
+    color: white !important;
+
+}
+
+
+
+.navbar-brand,.blue{
+ 
+    color: #009ad8;
+
+
+}
+.navbar-nav .nav-link.active{
+   padding: 5px 25px;
+    color: #009ad8;
+    border: 2px solid #009ad8  ;
+    border-radius: 20px;
+}
+
+.numdeg{
+    font-size: 60px;
+    width: fit-content;
+}
+.deg{
+    font-size: 6rem;
+}
+.iiccon{
+    width: 30%;
+   
+    /* height: fit-content; */
+}
+
+.item{
+    background-color: #161d31b6;
+}
+
+
+
+
+.site-footer .social-links a {
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    
+    border-radius: 50%;
+    background: #1e202b;
+    color: #009ad8;
+    /* text-align: center;
+    line-height: 2; */
+    /* -webkit-transition: 0.3s ease; */
+    transition: all 0.3s ease;
+    font-size: 22px;
+    /* font-size: 1.4285714286em; */
+}
+a {
+    text-decoration: none;
+    color: #009ad8;
+}
+a {
+    background: transparent;
+}
+
+
+.site-footer .social-links a:hover {
+    background: #009ad8;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
